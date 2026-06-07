@@ -1,0 +1,9 @@
+{
+  "name": "Viora",
+  "short_name": "Viora",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#7c6db3",
+  "theme_color": "#7c6db3",
+  "orientation": "portrait"
+}
